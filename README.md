@@ -50,11 +50,3 @@ git clone https://github.com/om-tajne/Dice-Game.git
 Open index.html in your browser.
 
 Refresh the page to roll the dice again.
-
-🎯 Future Improvements
-
-Add a "Roll Dice" button instead of refreshing the page
-
-Style the UI with CSS animations
-
-Add score tracking for multiple rounds# Dice-Game
